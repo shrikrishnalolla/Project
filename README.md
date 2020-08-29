@@ -1,4 +1,6 @@
-The project attempts to classify SDSS telescope data into Galaxy,Star or Quasar.This is done by implementing an Artificial Neural Network(ANN) from scratch.
+# Sloan Digital Sky Survey
+
+The project attempts to classify SDSS telescope data into Galaxy,Star or Quasar. This is done by implementing an Artificial Neural Network(ANN) from scratch.
 
 The dataset is taken from Sloan Digital Sky Survey DR14 dataset on Kaggle.The link is given below : 
 
